@@ -1,6 +1,6 @@
-- 👋 Hi, I’m John, a Software Engineering student 
+- 👋 Hi, I’m John
 - I’m interested Mobile App development
-- I currently work with Flutter, Native Android App development
+- I currently work with Flutter and Native Android App development
 - I’m looking to collaborate on app development projects
 - 📫 How to reach me johniwogu@gmail.com
 
